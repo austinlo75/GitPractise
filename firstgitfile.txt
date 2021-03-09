@@ -1,0 +1,1 @@
+Hi this is just a simple text file for git
